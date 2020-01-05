@@ -19,6 +19,7 @@ Clone this project, set your database property in "application.properties" file.
 * Database: MongoDB.
 * Frameworks: Spring Boot, Spring Security .
 * APIspec: Swagger.
+* Plugin: Lombok.
 
 ## <a name="author"></a>Author:
 >[GitHub](https://github.com/TarasHryts) , 
