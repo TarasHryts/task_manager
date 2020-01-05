@@ -13,7 +13,7 @@ In this project, I implement simple task manager. You can:
 * ADMIN can see all tasks and users (pagination, sorting and ordering are included).
 
 ## <a name="use"></a>If you want to use this project
-Set your database property in "application.properties" file. Make sure, you install all tools below.
+Clone this project, set your database property in "application.properties" file. Use this link [Swagger](http://localhost:8080/swagger-ui.html#/) to test the app. Make sure, you install all tools below.
 * Platform: Java 11.
 * Project management tool: Maven 4.
 * Database: MongoDB.
