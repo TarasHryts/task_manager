@@ -1,7 +1,6 @@
-Task Manager
+# <a name="task"></a>Task Manager
 ## <a name="information"></a>Project Information
-In this project, I implement simple task manager.
-####You can: 
+In this project, I implement simple task manager. You can: 
 * register user
 * login
 * create task
@@ -21,7 +20,6 @@ Set your database property in "application.properties" file. Make sure, you inst
 * Frameworks: Spring Boot, Spring Security .
 * APIspec: Swagger.
 
-
-##Author:
+## <a name="author"></a>Author:
 >[GitHub](https://github.com/TarasHryts) , 
 >[LinkedIn](https://www.linkedin.com/in/taras-hryts-91353718a/)
